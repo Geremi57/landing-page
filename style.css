@@ -11,9 +11,9 @@ body{
 }
 
 @media (max-width: 600px){
-.container{
+.container2{
     width: 100%;
-    padding: 100px;
+    margin-left: 400px;
 }
 }
 .container1{
