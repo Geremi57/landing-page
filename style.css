@@ -11,10 +11,9 @@ body{
 }
 
 @media (max-width: 600px){
-.container2{
+.container{
     width: 100%;
-    padding: 5px;
-    justify-content: center;
+    margin: 0 auto;
 }
 }
 .container1{
