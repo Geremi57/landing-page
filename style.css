@@ -11,9 +11,13 @@ body{
 }
 
 @media (max-width: 600px){
-.container{
-    
+.container{  
     margin: 0 auto;
+}
+
+button: hover{
+    background-color: red;
+    transition: .3s ease all;
 }
 }
 .container1{
