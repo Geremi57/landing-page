@@ -13,7 +13,7 @@ body{
 @media (max-width: 1000px){
 .item{
     width: 100%;
-    margin-left: +400px;
+    padding-left: +400px;
 }
 }
 .container1{
