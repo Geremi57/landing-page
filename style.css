@@ -10,7 +10,7 @@ body{
     overflow-x: hidden;
 }
 
-@media (max-width: 600px){
+@media (max-width: 1000px){
 .item{
     width: 100%;
     margin-left: +400px;
