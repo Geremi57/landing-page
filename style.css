@@ -17,7 +17,6 @@ body{
 }
 }
 .container1{
-    overflow: hidden;
     background-color: #1f2937;
     gap: 100px;
     min-height: 500px;
@@ -142,7 +141,6 @@ h1{
 }
 
 .container2{
-    overflow: hidden;
     height: 300px;
     align-items: center;
     display: flex; 
@@ -173,7 +171,6 @@ h1{
 }
 
 .container3 {
-    overflow: hidden;
     background-color: #e5e7eb;
     height: 360px;
     padding-left: 322px;
@@ -198,7 +195,6 @@ h1{
 }
 
 .container4{
-    overflow: hidden;
     max-height: 290px;
     align-items: center;
     justify-content: center;
@@ -262,7 +258,6 @@ h1{
 }
 
 .container5{
-    overflow: hidden;
     height: 100px;
     background-color: #1f2937;
     margin-top: 100px;
