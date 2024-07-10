@@ -5,6 +5,11 @@
 html{
     box-sizing: border-box;
 }
+
+body{
+    overflow-x: hidden;
+}
+
 .container1{
     background-color: #1f2937;
     gap: 100px;
