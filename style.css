@@ -11,7 +11,7 @@ body{
 }
 
 @media (max-width: 1000px){
-.item{
+.container2{
     width: 100%;
     padding-left: +400px;
 }
